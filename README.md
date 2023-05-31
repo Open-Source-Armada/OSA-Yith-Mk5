@@ -65,3 +65,6 @@ The weapons used by the Yith have greater critical hit chance than the supportin
 Best used by pilots used to the nuences of orbit fighting, but should still be used as a jouster in fleet fights to avoid "moshpits" of circling ships.
 Pilots should switch from jousting to orbiting when either a dangerous target needs to be distracted from teammates, or when a hostile ship becomes damaged and is vulnable to being finished by volume fire.
 For live combat, the Yith is a more appealing base for a standard fleet, due the the high cost of railgun ships, mat cost is more adjustable all the way down to t1/t2, and the laser/auto offers a base to build a cheap fighter that can be built in mass.
+
+Here is a link to the Seal Club vs Ace Tech VOD.
+https://www.twitch.tv/videos/1831677465?t=01h59m50s
