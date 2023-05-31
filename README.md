@@ -3,6 +3,8 @@ The latest version of OSA's 8 gun fighter, remade into a 1k light fighter.
 
 The Mk4 Yith is the next iteration of my main fighter, remade from the ground up to be in a lower weight class of ship, while still retaining the same firepower, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
 
+Ln'eta is the 3k tournament variants, with materials min-maxed for the weight limit of 1000 tons, 144ms at 60 fps, it uses more corrium which is not ideal for live, this is provided for any future tournaments that Kai hosts.
+
 //Specs//
 
 8 mounted weapons with a staggered fire trigger system.
@@ -28,8 +30,6 @@ Materials and components are on the high end, i leave it to the user to reduces 
 Comes in 4 auto/4 laser and 4 auto/4 plasma.
 
 1039562.81 kg in weight, 142ms at 60fps.
-
-Ln'eta is the 3k tournament variants, with materials min-maxed for the weight limit of 1000 tons, 144ms at 60 fps, it uses more corrium which is not ideal for live, this is provided for any future tournaments that Kai hosts.
 
 1 small prop tanks for 1 million prop, 30 mins estimated flight time.
 
