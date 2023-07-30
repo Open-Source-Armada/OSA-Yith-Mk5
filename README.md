@@ -83,4 +83,4 @@ Pilots should switch from jousting to orbiting when either a dangerous target ne
 
 For live combat, the Yith is a more appealing base for a standard fleet, due the the high cost of railgun ships, mat cost is more adjustable all the way down to t1/t2, and the laser/auto offers a base to build a cheap fighter that can be built in mass.
 
-Here is a link to the Seal Club Scipion's view including are fight vsAce Tech. https://youtu.be/R-IGqqT3Xdk
+Here is a link to Scipion's view including our fight vs Ace Tech. https://youtu.be/R-IGqqT3Xdk
