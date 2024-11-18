@@ -5,9 +5,9 @@ The Mk5 Yith is the next iteration of my main fighter, remade from the ground up
 
 //Specs//
 
-8 mounted weapons with a staggered fire trigger system.
+8 mounted weapons, 4 autogun and 4 plasma, with triggers for each.
 
-Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
+Shoot_1+ (Auto) and Shoot_2+ (Plasma) are your triggers, bind these to your weapon hotkeys (space by default).
 
 Sensitivity settings are adjustable from a yolo chip located on the back of the ship, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
 
@@ -23,9 +23,7 @@ Armoured using known methods of meta plating, including big plate health, voxel 
 
 Materials and components are on the high end, i leave it to the user to reduces cost to your tastes.
 
-Comes in 4 auto/4 laser and 4 auto/4 plasma.
-
-1039562.81 kg in weight, 142ms at 60fps.
+1040556.69 kg in weight, 142ms at 60fps.
 
 1 small prop tanks for 1 million prop, 30 mins estimated flight time.
 
