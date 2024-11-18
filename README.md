@@ -1,4 +1,4 @@
-# OSA-Yith-Mk4
+# OSA-Yith-Mk5
 The latest version of OSA's 8 gun fighter, remade into a 1k light fighter, updated to Mk5.
 
 The Mk5 Yith is the next iteration of my main fighter, remade from the ground up to be in a lower weight class of ship, while still retaining the same firepower, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
