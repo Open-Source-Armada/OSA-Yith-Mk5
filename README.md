@@ -1,9 +1,7 @@
 # OSA-Yith-Mk4
-The latest version of OSA's 8 gun fighter, remade into a 1k light fighter.
+The latest version of OSA's 8 gun fighter, remade into a 1k light fighter, updated to Mk5.
 
-The Mk4 Yith is the next iteration of my main fighter, remade from the ground up to be in a lower weight class of ship, while still retaining the same firepower, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
-
-Ln'eta is the 3k tournament variants, with materials min-maxed for the weight limit of 1000 tons, 144ms at 60 fps, it uses more corrium which is not ideal for live, this is provided for any future tournaments that Kai hosts.
+The Mk5 Yith is the next iteration of my main fighter, remade from the ground up to be in a lower weight class of ship, while still retaining the same firepower, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
 
 //Specs//
 
@@ -11,15 +9,13 @@ Ln'eta is the 3k tournament variants, with materials min-maxed for the weight li
 
 Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
 
-Rapidfire button switches between staggered fire (gun 2 will stagger behind gun 1 creating a machine gun effect) and alpha strike (both guns fire together).
-
 Sensitivity settings are adjustable from a yolo chip located on the back of the ship, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
 
-CenterSensePlus and CenterSenseMinus is your standard sensitivity, Adjust both to your preferred flying sensitivity.
+CenterSensePlus is your standard sensitivity, Adjust to your preferred flying sensitivity.
 
-AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus and MinSenseMinus to change Aim sensitivity.
+AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus to change Aim sensitivity.
 
-AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus and MaxSenseMinus to change Boost sensitivity.
+AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus to change Boost sensitivity.
 
 Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Aim keybind lowers the limits for sniping, Boost keybind removes these limits allowing for faster pitch/yaw.
 
@@ -47,9 +43,9 @@ With the announcement of a 3v3 tournament, i wanted a high DPS 1k fighter, the g
 
 The ship design takes advantage of mixing 4 autos with 4 plasma/laser with high tier gens to minmax power usage, allowing for great volume fire in both orbit and joust fighting.
 
-It also comes with a large ammo box for the autocannons, adding 3 additional mags to the autos available firepower, while saving large amounts of space from not using any small auto mags.
+It also comes with a large ammo box for the autocannons, adding additional mags to the autos available firepower, while saving large amounts of space from not using any small auto mags.
 
-Plasma/laser have there own mags, these weapons closely match the autos ammo expense.
+Plasma guns have there own mags, these weapons closely match the autos ammo expense.
 
 Very slim wedge profile from front and sides make this a great turn fighter, the overall size and shape is very compact.
 
@@ -81,6 +77,6 @@ Best used by pilots used to the nuances of orbit fighting, but should still be u
 
 Pilots should switch from jousting to orbiting when either a dangerous target needs to be distracted from teammates, or when a hostile ship becomes damaged and is vulnerable to being finished by volume fire.
 
-For live combat, the Yith is a more appealing base for a standard fleet, due the the high cost of railgun ships, mat cost is more adjustable all the way down to t1/t2, and the laser/auto offers a base to build a cheap fighter that can be built in mass.
+For live combat, the Yith is a more appealing base for a standard fleet, due the the high cost of railgun ships, mat cost is more adjustable and offers a base to build a cheap fighter that can be built in mass.
 
 Here is a link to Scipion's view including our fight vs Ace Tech. https://youtu.be/R-IGqqT3Xdk
